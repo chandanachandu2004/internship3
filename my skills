@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> internship assignment2 </title>
+        <link rel="stylesheet" href="intern.css">
+    </head>
+    <body>
+        <p>my skills</p>
+        <ul>
+            <li class="sample">html</li>
+            <li class="sampledemo">css</li>
+            <li class="samplechai">javascript</li>
+        </ul>
+        
+    </body>
+</html>
